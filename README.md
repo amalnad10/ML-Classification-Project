@@ -1,6 +1,8 @@
 # ML-Classification-Project
 Employee Attrition Prediction Using Machine Learning
 
+![App Screenshot](Classification-app.png,Classification-app2.png)
+
 👨‍💼 Employee Attrition Prediction Using Machine Learning
 📌 Project Overview
 
