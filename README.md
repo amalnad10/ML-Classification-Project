@@ -2,6 +2,7 @@
 Employee Attrition Prediction Using Machine Learning
 
 ![App Screenshot](Classification-app.png)
+![App Screenshot](Classification-app2.png)
 
 👨‍💼 Employee Attrition Prediction Using Machine Learning
 📌 Project Overview
